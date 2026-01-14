@@ -32,7 +32,7 @@ GigFlow is a freelance marketplace platform where clients can post gigs and free
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/pranshu00000/GigFlow
     cd GigFlow
     ```
 
